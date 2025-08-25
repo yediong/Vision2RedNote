@@ -1,7 +1,5 @@
 # Vision2RedNote
 
-![Project Logo](https://via.placeholder.com/800x200?text=Vision2RedNote)
-
 ## Description
 
 Vision2RedNote is an intelligent content creation system powered by Qwen-VL multimodal AI, designed to transform images into viral-style Rednote (Xiaohongshu) notes. This all-in-one solution helps creators generate engaging, emoji-rich social content with high interaction potential. (Course Project for "Vision and Natural Language Processing" at School of Artificial Intelligence and Automation, Huazhong University of Science and Technology)
@@ -173,13 +171,6 @@ Tweak generation parameters in `inference.py` and `pipeline_qwen.py`:
 - `top_p` and `top_k`: Control sampling strategy
 - `repetition_penalty`: Reduces repetitive content
 
-## Troubleshooting
-
-- **API Errors**: Check API key validity and Qwen-VL model authorization in DashScope console
-- **Image Processing Issues**: Ensure images are not corrupted and within size limits
-- **Memory Problems**: Reduce batch size in training or use `--quick` mode for evaluation
-- **Style Inconsistencies**: Adjust style enhancement parameters in `train.py`
-
 ## License
 
 [MIT License](LICENSE)
@@ -192,4 +183,4 @@ Tweak generation parameters in `inference.py` and `pipeline_qwen.py`:
 
 ## Contact
 
-For questions and feedback, please contact: [your-email@example.com]
+For questions and feedback, please contact: [yetinghong@hust.edu.cn]
