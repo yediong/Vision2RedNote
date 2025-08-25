@@ -4,18 +4,6 @@
 
 Vision2RedNote is an intelligent content creation system powered by Qwen-VL multimodal AI, designed to transform images into viral-style Rednote (Xiaohongshu) notes. This all-in-one solution helps creators generate engaging, emoji-rich social content with high interaction potential. (华中科技大学人工智能与自动化学院课程：视觉与自然语言处理大作业)
 
-## Key Features
-
-- **AI-Powered Content Generation**: Leverages Qwen-VL multimodal model to analyze images and generate contextually relevant descriptions
-- **Xiaohongshu Style Optimization**: Automatically enhances content with:
-  - Emoji enrichment and strategic placement
-  - Viral-style vocabulary replacement
-  - Conversational tone adaptation
-  - Hashtag extraction and suggestion
-- **Incremental Processing**: Skips already processed images to save time and API resources
-- **Comprehensive Workflow**: Includes training, evaluation, inference, and visualization modules
-- **Performance Metrics**: Provides emoji density and style score analysis for generated content
-
 ## Installation
 
 ### Prerequisites
