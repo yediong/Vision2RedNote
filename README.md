@@ -2,7 +2,7 @@
 
 ## Description
 
-Vision2RedNote is an intelligent content creation system powered by Qwen-VL multimodal AI, designed to transform images into viral-style Rednote (Xiaohongshu) notes. This all-in-one solution helps creators generate engaging, emoji-rich social content with high interaction potential. (Course Project for "Vision and Natural Language Processing" at School of Artificial Intelligence and Automation, Huazhong University of Science and Technology)
+Vision2RedNote is an intelligent content creation system powered by Qwen-VL multimodal AI, designed to transform images into viral-style Rednote (Xiaohongshu) notes. This all-in-one solution helps creators generate engaging, emoji-rich social content with high interaction potential. (华中科技大学人工智能与自动化学院课程：视觉与自然语言处理大作业)
 
 ## Key Features
 
@@ -29,7 +29,7 @@ Vision2RedNote is an intelligent content creation system powered by Qwen-VL mult
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Vision2RedNote.git
+git clone https://github.com/yediong/Vision2RedNote.git
 cd Vision2RedNote
 ```
 
